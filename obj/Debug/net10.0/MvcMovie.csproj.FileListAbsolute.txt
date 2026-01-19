@@ -83,8 +83,6 @@
 /home/kbeck/Documents/Pathways/CSE 325/MvcMovie/obj/Debug/net10.0/compressed/7tpgvl3x37-{0}-muycvpuwrr-muycvpuwrr.gz
 /home/kbeck/Documents/Pathways/CSE 325/MvcMovie/obj/Debug/net10.0/compressed/kk6x8kwsgs-{0}-87fc7y1x7t-87fc7y1x7t.gz
 /home/kbeck/Documents/Pathways/CSE 325/MvcMovie/obj/Debug/net10.0/compressed/u23ny76nnj-{0}-jfsiqqwiad-jfsiqqwiad.gz
-/home/kbeck/Documents/Pathways/CSE 325/MvcMovie/obj/Debug/net10.0/compressed/1kt5hl28no-{0}-ec0yfud5es-ec0yfud5es.gz
-/home/kbeck/Documents/Pathways/CSE 325/MvcMovie/obj/Debug/net10.0/compressed/xzd9bq0s9u-{0}-ec0yfud5es-ec0yfud5es.gz
 /home/kbeck/Documents/Pathways/CSE 325/MvcMovie/obj/Debug/net10.0/staticwebassets.build.json
 /home/kbeck/Documents/Pathways/CSE 325/MvcMovie/obj/Debug/net10.0/staticwebassets.build.json.cache
 /home/kbeck/Documents/Pathways/CSE 325/MvcMovie/obj/Debug/net10.0/staticwebassets.development.json
@@ -365,3 +363,5 @@
 /home/kbeck/Documents/Pathways/CSE 325/MvcMovie/bin/Debug/net10.0/runtimes/win-x86/native/e_sqlite3.dll
 /home/kbeck/Documents/Pathways/CSE 325/MvcMovie/obj/Debug/net10.0/MvcMovie.csproj.AssemblyReference.cache
 /home/kbeck/Documents/Pathways/CSE 325/MvcMovie/obj/Debug/net10.0/MvcMovie.csproj.Up2Date
+/home/kbeck/Documents/Pathways/CSE 325/MvcMovie/obj/Debug/net10.0/compressed/1kt5hl28no-{0}-nx05her8ff-nx05her8ff.gz
+/home/kbeck/Documents/Pathways/CSE 325/MvcMovie/obj/Debug/net10.0/compressed/xzd9bq0s9u-{0}-nx05her8ff-nx05her8ff.gz

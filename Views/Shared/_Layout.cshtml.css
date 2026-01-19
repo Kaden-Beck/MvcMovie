@@ -47,4 +47,6 @@ button.accept-policy {
   line-height: 60px;
 }
 
-
+input {
+  padding: 2em;
+}
